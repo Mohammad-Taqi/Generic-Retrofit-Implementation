@@ -1,4 +1,4 @@
-# Generic-Retrofit-Implementation
+# Generic-Retrofit-Implementation (Android Kotlin)
 Generic code to call api using retrofit2
 
 <b>NOW CALL ANY API BY JUST GIVING THE MODEL CLASS</b>
