@@ -12,7 +12,7 @@ Generic code to call api using retrofit2
             )?.let {
                 repository.fetchData(
                     it
-                ) { contactData, error ->
+                ) { yourModel, error ->
                     if (error != null) {
                         // Handle error
                         Log.d("CheckingResponse", "$error")
